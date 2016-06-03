@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="teamwork-las-vegas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/teamwork_las_vegas_jar</output-path>
+    <root id="archive" name="teamwork-las-vegas.jar">
+      <element id="module-output" name="teamwork-las-vegas" />
+      <element id="library" level="project" name="resources" />
+    </root>
+  </artifact>
+</component>
