@@ -8,7 +8,11 @@ public class TestDog {
         Animal dog = new Dog();
         Animal animal = new Animal();
         dog.move();
+<<<<<<< HEAD
 
+=======
+        animal.move();
+>>>>>>> c1c18dea3c4e61d2758aee7553653d71118b2379
         dog.bark();
     }
 }

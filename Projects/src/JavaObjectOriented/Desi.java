@@ -6,6 +6,7 @@ package JavaObjectOriented;
 public class Desi {
     String name ;
     String lastname;
+<<<<<<< HEAD
     int age;
 
     public Desi(String name, int age, String lastname) {
@@ -17,4 +18,10 @@ public class Desi {
 
 
 
+=======
+
+    class Desi1{
+
+    }
+>>>>>>> c1c18dea3c4e61d2758aee7553653d71118b2379
 }

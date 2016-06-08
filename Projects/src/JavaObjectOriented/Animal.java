@@ -10,5 +10,8 @@ public class Animal {
     public void bark(){
         System.out.println("Animal can bark too");
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> c1c18dea3c4e61d2758aee7553653d71118b2379
 }
